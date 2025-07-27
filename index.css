@@ -2619,7 +2619,7 @@
       .isaac button{
         float: right;
         margin-top: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
         height: 40px;
     }
     .sam{
@@ -2627,6 +2627,7 @@
         margin-top: 50px;
     }
     .sam h4{
+        padding-bottom: 20px;
         text-align: center;
     }
     .sam button{
@@ -2663,7 +2664,7 @@
     }
     .ll h4{
         padding: 0;
-        font-size: 40px;
+        font-size: 30px;
     }
       .ll p{
         font-size: 15px;
@@ -2671,7 +2672,7 @@
     }
     .jj h4{
         padding: 0;
-        font-size: 40px;
+        font-size: 30px;
     }
     .jj p{
         font-size: 14px;
@@ -2687,6 +2688,7 @@
        .dad img{
         margin: 0;
         margin-left: 250px;
+        width: 10%;
     }
     .dad h6{
         padding: 0;
@@ -2702,7 +2704,7 @@
         font-size: 15px;
     }
       .dad h4{
-        font-size: 45px;
+        font-size: 38px;
     }
     .mom button{
         margin: 0;
@@ -2722,33 +2724,32 @@
         padding-top: 15px;
         padding-bottom: 15px;
     }
-       .aa{
-        margin-top: 40px;
+    .zz h5{
+        margin: 0;
+        padding: 0;
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .zz button{
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    .zz h6{
+        font-size: 35px;
+    }
+    .zz p{
+        font-size: 14px;
     }
     .qq{
         margin: 0;
-        margin-top: 60px;
-    }
-    .ml{
-        margin: 0;
-        padding-bottom: 20px;
+        margin-top: 95px;
     }
     .ml h6{
         text-align: center;
     }
-    .zz h5{
-        font-size: 15px;
-        margin-left: -65px;
-    }
-    .zz h6{
-        margin-left: -55px;
-    }
-    .zz p{
-        margin-left: -55px;
-        font-size: 15px;
-    }
-    .zz button{
-        margin-left: -65px;
+    .ml p{
+        text-align: center;
+        padding-bottom: 30px;
     }
      .ff h5{
         margin: 0;
@@ -2775,7 +2776,7 @@
         height: 40px;
     }
     .did h5{
-        text-align: center;
+        text-align: justify;
     }
       .ft{
         padding: 0;
@@ -2801,7 +2802,7 @@
         height: 40px;
     }
     .gg h5{
-        text-align: center;
+        text-align: justify;
     }
        .dropdown:hover .dropdown-menu{
     display: block;
@@ -3320,21 +3321,18 @@
         padding-top: 15px;
         padding-bottom: 15px;
     }
-    .zz h5{
-        font-size: 15px;
-        margin-left: -65px;
-    }
-    .zz button{
-        margin-left: -65px;
+    .zz p{
+        font-size: 14px;
     }
     .zz h6{
         font-size: 30px;
-        font-weight: 800;
-    }
-    .zz p{
-        font-size: 16px;
     }
     .ww{
+        margin: 0;
+        margin-top: 110px;
+        margin-bottom: 40px;
+    }
+    .qq{
         margin: 0;
         margin-top: 85px;
     }
@@ -3365,7 +3363,7 @@
         height: 40px;
     }
     .did h5{
-        text-align: center;
+        text-align: justify;
     }
         .ft{
         padding: 0;
@@ -3395,7 +3393,7 @@
         height: 40px;
     }
     .gg h5{
-        text-align: center;
+        text-align: justify;
     }
          .dropdown:hover .dropdown-menu{
     display: block;
