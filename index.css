@@ -1,0 +1,3425 @@
+.one{
+    background-color: white;
+}
+.one img{
+    width: 19%;
+}
+.two a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.one a:hover{
+    color: #7d7d79;
+    cursor: pointer;
+}
+.two{
+    margin-left: -450px;
+    margin-top: 25px;
+}
+.three button{
+    border: none;
+    width: 150px;
+    height: 50px;
+    background-color: #0087db;
+    border-radius: 30px;
+    color: #0087db;
+    font-weight: 600;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.tree button{
+    border: none;
+    width: 150px;
+    height: 50px;
+    background-color: #0087db;
+    border-radius: 30px;
+    color: white;
+    font-weight: 600;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.one button:hover{
+    color: white;
+    cursor: pointer;
+}
+.dey{
+    display: flex;
+    justify-content: space-between;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+    margin-top: 0px;
+    width: 210px;
+    margin-left: 28px;
+    border-top: 2px solid gainsboro;
+    background-color: #f4f4f4;
+    line-height: 3.0;
+    border: none;
+}
+.ff{
+   margin-top: 15px; 
+}
+.ff h5{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: justify;
+    margin-top: -270px;
+}
+.ff p{
+    font-size: 16px;
+    text-align: justify;
+    padding-top: 8px;
+}
+.did{
+    background-image: url(./IMAGES/sla55.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 18%;
+    position: relative;
+    isolation: isolate;
+}
+.did::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: black;
+    opacity: .5;
+}
+.did button{
+    background-color: #0087db;
+    color: white;
+    font-weight: 600;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: -800px;
+}
+.ft{
+    background-image: url(./IMAGES/sla4\ 44.jpeg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 18%;
+     position: relative;
+    isolation: isolate;
+}
+.ft::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: black;
+    opacity: .5;
+}
+.ft button{
+     background-color: #0087db;
+    color: white;
+    font-weight: 600;
+    border: none;
+    width: 190px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: -750px;
+}
+.gg{
+    background-image: url(./IMAGES/sla1\ 11.jpeg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 18%;
+      position: relative;
+    isolation: isolate;
+}
+.gg::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: black;
+    opacity: .5;
+}
+.gg button{
+    background-color: #0087db;
+    color: white;
+    font-weight: 600;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: -800px;
+}
+.zz{
+    background-image: url(./IMAGES/sla2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+.zz h5{
+    color: white;
+    font-size: 17px;
+    padding-top: 20px;
+}
+.zz h6{
+    font-size: 55px;
+    font-weight: 700;
+    color: white;
+}
+.zz p{
+    color: white;
+    font-size: 15px;
+}
+.ww{
+   margin-top: 65px; 
+   margin-bottom: 50px;
+}
+.qq{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.zz button{
+    background-color: white;
+    color: #4D497D;
+    font-weight: 600;
+    border: none;
+    border-radius: 25px;
+    height: 40px;
+    margin-top: 20px;
+    width: 200px;
+}
+.boy img{
+    width: 70%;
+    opacity: 0.5;
+}
+.gay img{
+    width: 50%;
+    opacity: 0.5;
+}
+.gun{
+    background-color: #F0F0F0;
+}
+.toy{
+    margin-top: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #F0F0F0;
+}
+.toy h6{
+    padding-left: 500px;
+    font-size: 20px;
+    color: #0087db;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.ben{
+    border-radius: 25px;
+}
+.benn{
+    border-radius: 25px;
+}
+.benn p{
+    padding-bottom: 25px;
+}
+.dad h6{
+    padding-left: 70px;
+    margin-top: -35px;
+    font-size: 17px;
+}
+.dad p{
+    padding-left: 70px;
+    font-size: 15px;
+}
+.dad{
+    margin-top: 70px;
+}
+.dad img{
+    width: 13%;
+}
+.dad button{
+    width: 200px;
+    height: 30px;
+    color: #0087db;
+    background-color: #C0E7FF;
+    border: none;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.dad h4{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+.sam img{
+    width: 100%;
+    border-radius: 20px;
+}
+.sam a{
+    font-size: 22px;
+    font-weight: 700;
+}
+.sam{
+    margin-top: 90px;
+}
+.sam h4{
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+.sam button{
+    width: 200px;
+    height: 30px;
+    color: #0087db;
+    background-color: #C0E7FF;
+    border: none;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.isaac button{
+    background-color: #0087db;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.isaac button:hover{
+    background-color: white;
+    color: #0087db;
+    border: 3px solid #0087db;
+}
+.mom button:hover{
+    background-color: white;
+    color: #0087db;
+    border: 3px solid #0087db;
+}
+.mom button{
+    background-color: #0087db;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}.ll img{
+    width: 100%;
+}
+.ll h4{
+    font-size: 42px;
+    font-weight: 700;
+    padding-top: 70px;
+}
+.ll p{
+    font-size: 15px;
+}
+.ll button{
+    border: none;
+    background-color: black;
+    color: #0087db;
+    border-radius: 25px;
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+}
+.pp img{
+    width: 90%;
+    margin-top: 49px;
+}
+.pp h4{
+    font-size: 42px;
+    font-weight: 700;
+    padding-top: 40px;
+    margin-left: 80px;
+}
+.pp p{
+    font-size: 15px;
+    margin-left: 80px;
+}
+.pp button{
+    border: none;
+    text-align: center;
+    background-color: black;
+    color: #0087db;
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.jj img{
+    width: 100%;
+    margin-top: 60px;
+}
+.jj h4{
+    font-size: 42px;
+    font-weight: 700;
+    padding-top: 70px;
+}
+.jj p{
+    font-size: 15px;
+}
+.jj button{
+     border: none;
+    background-color: black;
+    color: #0087db;
+    border-radius: 25px;
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+}
+.jj button:hover{
+    color: white;
+    cursor: pointer;
+}
+.ct {
+    padding-bottom: 50px;
+}
+.ctt{
+    padding-bottom: 50px;
+    margin-top: 130px;
+}
+.ct img{
+    margin-bottom: 65px;
+}
+.ctt img{
+    margin-bottom: 65px;
+}
+.ct p{
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0.8;
+}
+.ctt p{
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0.8;
+}
+.ct a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    display: block;
+    font-weight: 700;
+    line-height: 1.8;
+}
+.ctt a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    display: block;
+    font-weight: 700;
+    line-height: 1.8;
+}
+.cl{
+    text-align: center;
+    margin-top: 30px;
+}
+.cl h8{
+    color: white;
+    font-size: 13px;
+}
+.ct h5{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.ctt h5{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.ct h6{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.ctt h6{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.tey {
+    display: flex;
+    margin-top: 20px;
+    margin-left: -20px;
+}
+.tey a{
+    margin-left: 25px;
+}
+.gray{
+    background-image: url(./IMAGES/sla222.jpeg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    padding-top: 80px;
+}
+.tray{
+     background-image: url(./IMAGES/sla222.jpeg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+}
+.grayy{
+      background-image: url(./IMAGES/sla222.jpeg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    padding-top: 80px;
+}
+.caro button{
+    background-color: #C0E7FF;
+    color: #0087db;
+    font-size: 13px;
+    width: 200px;
+    border: none;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 550px;
+}
+.caroo button{
+    background-color: #C0E7FF;
+    color: #0087db;
+    font-size: 13px;
+    width: 200px;
+    border: none;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 550px;
+}
+.gray h4{
+    color: white;
+    font-size: 33px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 30px;
+}
+.tray h4{
+    color: white;
+    font-size: 33px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 30px;
+}
+.grayy h4{
+    color: white;
+    font-size: 33px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 30px;
+}
+.die input{
+    background-color: #0087db;
+    border: 2px solid white;
+    width: 520px;
+    height: 52px;
+    padding-left: 10px;
+    margin-left: 380px;
+    margin-top: 35px;
+    margin-bottom: 130px;
+    border-radius: 25px;
+}
+.die ::placeholder{
+    color: white;
+}
+.diee input{
+     background-color: #0087db;
+    border: 2px solid white;
+    width: 520px;
+    height: 52px;
+    padding-left: 10px;
+    margin-left: 380px;
+    margin-top: 35px;
+    margin-bottom: 130px;
+    border-radius: 25px;
+}
+.diee ::placeholder{
+    color: white;
+}
+.die button{
+    background-color: #579AF6;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    height: 42px;
+    width: 100px;
+    margin-left: -102px;
+    margin-top: 39px;
+    position: absolute;
+}
+.diee button{
+    background-color: #579AF6;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    height: 42px;
+    width: 100px;
+    margin-left: -102px;
+    margin-top: 39px;
+    position: absolute;
+}
+.die button:hover{
+    background-color: white;
+    color: #0087db;
+}
+.diee button:hover{
+     background-color: white;
+    color: #0087db;
+}
+.die{
+    position: relative;
+}
+.diee{
+    position: relative;
+}
+.fish{
+    background-image: url(./IMAGES/leighann-blackwood-hx87JWG4yCI-unsplash-1\ 222.jpeg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding-top: 17%;
+    padding-bottom: 6%;
+    position: relative;
+    isolation: isolate;
+}
+.fish::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background-color: black;
+    opacity: -5;
+}
+.gin h3{
+    color: white;
+    font-size: 44px;
+    font-weight: 700;
+    padding-top: 120px;
+    padding-left: 100px;
+}
+.tsn img{
+    width: 100%;
+}
+.tsn{
+    margin-top: 140px;
+}
+.tsn h4{
+    padding-top: 40px;
+    font-size: 42px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+.tsn p{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    padding-left: 50px;
+    font-size: 15px;
+}
+.tsn button{
+    border: none;
+    background-color: #0087db;
+    color: #0087db;
+    margin-left: 45px;
+    width: 120px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 10px;
+    font-weight: 700
+}
+.tsn button:hover{
+    color: white;
+    cursor: pointer;
+}
+.tow button{
+    border: none;
+    width: 200px;
+    height: 25px;
+    background-color: #C0E7FF;
+    color: #0087db;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.toww button{
+    border: none;
+    width: 130px;
+    height: 45px;
+    background-color: white;
+    color: blue;
+    border-radius: 25px;
+    font-weight: 600;
+    margin-left: 200px;
+    font-size: 16px;
+}
+.toww button:hover{
+    background-color: #0087db;
+    color: white;
+    border: 2px solid white;
+}
+.tow{
+    background-image: url(./IMAGES/imgi_14_pattern-bggg.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    margin-top: 100px;
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+.tow h4{
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+}
+.tow img{
+    width: 18%;
+}
+.tow h5{
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 130px;
+    margin-top: -80px;
+}
+.lo{
+    margin-top: 60px;
+}
+.tow p{
+    font-size: 16px;
+    color: white;
+    padding-left: 130px;
+}
+.nani img{
+    width: 70%;
+    margin-left: 120px;
+}
+.naani img{
+    width: 85%;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.nanii input{
+    width: 550px;
+    border: 3px solid #EEEEEE;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 300px;
+    padding-left: 10px;
+}
+.craze a{
+    text-decoration: none;
+    margin-left: 500px;
+    padding-top: 4px;
+    position: absolute;
+}
+.crazee a{
+    text-decoration: none;
+    margin-left: 330px;
+    padding-top: 4px;
+    position: absolute;
+    font-weight: 600;
+}
+.craze{
+    background-color: #EEEEEE;
+    width: 600px;
+    height: 60px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    margin-left: 270px;
+    border-radius: 35px;
+    padding-top: 15px;
+    position: relative;
+}
+.crazee{
+    background-color: #EEEEEE;
+    width: 430px;
+    height: 60px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    margin-left: 350px;
+    border-radius: 35px;
+    padding-top: 15px;
+    position: relative;
+}
+.craze p{
+    background-color: #0087db;
+    width: 300px;
+    height: 40px;
+    padding-left: 30px;
+    padding-top: 8px;
+    margin-top: -6px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 15px;
+    color: white;
+    font-weight: 600;
+}
+.crazee p{
+     background-color: #0087db;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: -6px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 15px;
+    color: white;
+    font-weight: 600;
+}
+.nani h2{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.naani{
+    margin-bottom: 80px;
+}
+.naani h2{
+     font-size: 45px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.naani h6{
+    margin-left: 20px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nani h6{
+    margin-left: -18px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.joy{
+    display: flex;
+}
+.ano{
+    background-image: url(./IMAGES/imgi_7_Group-243.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    isolation: isolate;
+    position: relative;
+}
+.ano::after{
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background-color: black;
+    opacity: .2;
+}
+.ano h4{
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 70px;
+    padding-left: 200px;
+    font-size: 40px;
+}
+.pre button{
+    background-color: #C0E7FF;
+    color: #0087db;
+    border: none;
+    width: 200px;
+    height: 22px;
+    font-size: 15px;
+    border-radius: 25px;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.pre h2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 1.0;
+}
+.prey button{
+    background-color: #0087db;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 140px;
+    height: 40px;
+     margin-left: 380px;
+    margin-top: 80px;
+}
+.prey button:hover{
+    background-color: #EEEEEE;
+    color: #0087db;
+    cursor: pointer;
+    border: 3px solid #0087db;
+}
+.preyy{
+    display: flex;
+}
+.pre h6{
+    color: #0087db;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.pre p{
+    font-size: 15px;
+    font-weight: 600;
+}
+.pr h6{
+    color: #0087db;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.pr p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.pr h2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 1.0;
+    padding-top: 40px;
+}
+.ppp{
+    margin-left: 100px;
+}
+.di{
+    background-image: url(./IMAGES/joint.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    isolation: isolate;
+    margin-top: 50px;
+}
+.di::after{
+    content: '';
+    inset: 0;
+    position: absolute;
+    z-index: -1;
+    background-color: black;
+    opacity: .4;
+}
+.di h4{
+    font-size: 45px;
+    color: white;
+    padding-top: 200px;
+    padding-left: 120px;
+    font-weight: 600;
+}
+.di p{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 120px;
+    padding-bottom: 100px;
+}
+.port{
+    background-image: url(./IMAGES/sla2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: -18px;
+    padding-top: 80px;
+}
+.port h2{
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.port h6{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.port p{
+    color: white;
+    font-size: 15px;
+}
+.dodo button{
+    background-color: #C0E7FF;
+    color: #0087db;
+    border: none;
+    width: 220px;
+    height: 25px;
+    border-radius: 30px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.doodo button{
+    background-color: #0087db;
+    color: #0087db;
+    border: none;
+    border-radius: 30px;
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 480px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.doodo button:hover{
+    color: white;
+    cursor: pointer;
+}
+.dodo h4{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.dodo p{
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 220px;
+}
+.kok p{
+    margin-top: 12px;
+}
+.ball{
+    background-image: url(./IMAGES/resource\ bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    isolation: isolate;
+}
+.ball::after{
+    content: '';
+    inset: 0;
+    z-index: -1;
+    position: absolute;
+    background-color: black;
+    opacity: .1;
+}
+.ball h3{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 120px;
+    padding-top: 280px;
+    padding-bottom: 100px;
+}
+.fool a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+.fool p{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+.fool button{
+    border: none;
+    height: 60px;
+    width: 180px;
+    color: white;
+    font-weight: 600;
+    background-color: #29D8D8;
+    margin-left: 450px;
+    text-align: center;
+}
+.fool button:hover{
+    color: white;
+    cursor: pointer;
+    background-color: #27BDBD;
+}
+.gown img{
+    width: 100%;
+    height: 230px;
+    border-radius: 15px;
+}
+.bend img{
+    width: 100%;
+    border-radius: 15px;
+}
+.yolo h3{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 90px;
+}
+.yolo p{
+    text-align: center;
+}
+.wavy h4{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.wavy p{
+    font-weight: 700;
+}
+.wavy ul li{
+    font-weight: 500;
+    font-size: 14px;
+}
+.wavy button{
+    border: none;
+    border-radius: 25px;
+    width: 120px;
+    height: 35px;
+    background-color: #1F497D;
+    color: #0087db;
+    font-size: 13px;
+    text-align: center;
+}
+.wavy button:hover{
+    color: white;
+    cursor: pointer;
+}
+.wavy{
+    background-color: #EEEEEE;
+    width: 100%;
+    margin-top: 70px;
+}
+.bow{
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.hen img{
+    width: 100%;
+}
+.hen h2{
+    font-size: 45px;
+    font-weight: 700;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.hen p{
+    font-weight: 700;
+    color: white;
+    font-size: 17px;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.hen ul li{
+    font-weight: 500;
+    font-size: 13px;
+    color: white;
+    margin-left: 40px;
+}
+.hen button{
+    border: none;
+    border-radius: 25px;
+    width: 90px;
+    height: 35px;
+    font-size: 13px;
+    background-color: #0087db;
+    color: #0087db;
+    margin-left: 50px;
+}
+.hen button:hover{
+    color: white;
+    cursor: pointer;
+}
+.fuck{
+    margin-top: 120px;
+    margin-bottom: 90px;
+}
+.soap{
+    background-image: url(./IMAGES/join\ our\ bg.png);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 15%;
+}
+.cure{
+    background-image: url(./IMAGES/sla2.jpeg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+}
+.cure h2{
+    font-size: 40px;
+    color: white;
+}
+.cure p{
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
+ .cure h6{
+     color: white;
+    font-weight: 400;
+    font-size: 15px;
+    }
+.cure h4{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+.curing{
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+.curest{
+    margin-top: 140px;
+    margin-bottom: 80px;
+}
+.coat img{
+    width: 3.5%;
+}
+.coatt img{
+    width: 100%;
+}
+.coats button{
+    border: none;
+    background-color: #0087db;
+    color: white;
+    width: 180px;
+    height: 45px;
+    text-decoration: underline;
+    font-size: 22px;
+    font-weight: 700;
+}
+.horn h3{
+    font-size: 32px;
+    color: #0087db;
+    font-weight: 700;
+    padding-top: 100px;
+}
+.doom h4{
+    color: #0087db;
+    padding-top: 100px;
+    font-size: 30px;
+    font-family: 700;
+    padding-bottom: 10px
+}
+.doom p{
+    font-size: 15px;
+}
+.lud video{
+    width: 100%;
+    height: 400px;
+    margin-top: -50px;
+}
+.lud h2{
+    padding-top: 70px;
+    padding-left: 150px;
+    color: #0087db;
+    font-size: 35px;
+    font-weight: 700;
+}
+.pant{
+    background-image: url(IMAGES/see\ all\ bg.jpg);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.pant h3{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 190px;
+    padding-bottom: 70px;
+    padding-left: 200px;
+}
+.wire img{
+    width: 45%;
+    margin-top: 80px;
+    margin-left: 280px;
+    margin-bottom: 20px;
+}
+.wire a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 280px;
+}
+.fire img{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.fire a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.view{
+    background-image: url(./IMAGES/view\ bg.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.view h4{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 320px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+}
+.slay h3{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 15px;
+}
+.slay p{
+    text-align: center;
+    font-weight: 600;
+}
+.well h3{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.well h5{
+    color: blueviolet;
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: 40px;
+}
+.well a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+}
+.well img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.wella {
+    background-color: #EEEEEE;
+    height: 320px;
+    border-radius: 15px;
+}
+.wella p{
+    padding-top: 20px;
+}
+.ment img{
+    width: 13%;
+    float: right;
+    margin-top: -23px;
+}
+@media (max-width:430px){
+     .pant h3{
+        margin: 0;
+        padding: 0;
+        margin-top: 40px;
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    .wire a{
+        margin: 0;
+        padding: 0;
+    }
+    .wire img{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        margin-top: 80px;
+        margin-bottom: 20px;
+    }
+    .view h4{
+        margin: 0;
+        margin-top: 40px;
+        padding: 0;
+        padding-top: 200px;
+        padding-bottom: 180px;
+    }
+    .slay h3{
+        font-size: 25px;
+        padding: 0;
+        padding-top: 80px;
+    }
+    .slay p{
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .well h3{
+        margin: 0;
+        padding: 0;
+        font-size: 23px;
+        padding-top: 90px;
+        padding-bottom: 20px;
+    }
+    .well h5{
+        margin: 0;
+        padding: 0;
+        padding-bottom: 20px;
+        font-size: 13px;
+    }
+    .well img{
+        width: 100%;
+        padding: 1%;
+        margin: 0;
+        margin-bottom: 15px;
+    }
+    .wella{
+        height: 300px;
+    }
+    .horn h3{
+        font-size: 18px;
+    }
+    .lud h2{
+        margin: 0;
+        padding: 0;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        font-size: 18px;
+    }
+    .lud video{
+        margin: 0;
+        margin-top: -95px;
+    }
+    .doom h4{
+        font-size: 20px;
+        margin: 0;
+        margin-top: -40px;
+    }
+    .soap{
+        margin: 0;
+        padding: 0;
+        padding: 40%;
+        margin-top: 40px;
+    }
+    .cure h2{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .cure p{
+        font-size: 14px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .cure h4{
+        font-size: 20px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .cure h6{
+        font-size: 14px;
+    }
+    .curest{
+        margin: 0;
+    }
+    .curing{
+        margin: 0;
+    }
+    .yolo p{
+        font-size: 13px;
+    }
+    .yolo h3{
+        font-size: 25px;
+    }
+    .wavy h4{
+        font-size: 25px;
+    }
+    .hen h2{
+        font-size: 25px;
+        padding-left: 40px;
+    }
+    .hen img{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .hen p{
+        padding: 0;
+        padding-top: 30px;
+    }
+    .hen ul li{
+        margin: 0;
+        padding: 0;
+    }
+    .fuck{
+        margin: 0;
+        margin-bottom: 50px;
+    }
+    .hen button{
+        margin: 0;
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .bow{
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    .yolo h3{
+        font-size: 28px;
+    }
+    .wavy button{
+        margin: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .ball{
+        margin: 0;
+        margin-top: 30px;
+    }
+    .ball h3{
+        margin: 0;
+        padding: 0;
+        padding-top: 120px;
+        padding-bottom: 230px;
+    }
+    .dodo p{
+        margin: 0;
+        padding: 0;
+        font-size: 14px;
+    }
+    .dodo h4{
+        font-size: 30px;
+    }
+    .dodo button{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        margin-top: 80px;
+        margin-bottom: 20px;
+    }
+    .doodo button{
+        margin: 0;
+        padding: 0;
+        width: 170px;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    .port h2{
+        font-size: 32px;
+    }
+    .port p{
+        font-size: 14px;
+    }
+    .port h6{
+        margin-bottom: 15px;
+    }
+    .di h4{
+        padding: 0;
+        padding-top: 80px;
+        font-size: 35px;
+    }
+    .di p{
+        padding: 0;
+        font-size: 16px;
+        padding-bottom: 140px;
+    }
+    .ppp{
+        margin: 0;
+    }
+    .pr h6{
+        margin-top: 30px;
+    }
+    .pr h2{
+        font-size: 28px;
+    }
+    .pre button{
+        width: 100%;
+        text-align: center;
+    }
+    .pre h2{
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+    .pre p{
+        font-size: 14px;
+    }
+    .preyy{
+        display: block;
+    }
+    .prey button{
+        margin: 0;
+        padding: 0;
+        margin-top: 15px;
+        margin-bottom: 20px;
+         width: 160px;
+         height: 40px;
+    }
+    .ano h4{
+        padding: 0;
+        font-size: 45px;
+        padding-top: 160px;
+        padding-bottom: 200px;
+    }
+    .ano::after{
+        opacity: .1;
+    }
+    .ano{
+        margin-top: 30px;
+    }
+    .naani img{
+        margin: 0;
+        width: 90%;
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+    .naani h2{
+        margin: 0;
+        margin-top: 50px;
+    }
+    .naani h6{
+        margin: 0;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .joy{
+        display: block;
+    }
+    .nani h2{
+        margin: 0;
+        padding: 0;
+        margin-top: 20px;
+        font-size: 35px;
+    }
+    .nani h6{
+        margin: 0;
+        padding: 0;
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 1.5;
+    }
+    .joy{
+        display: block;
+    }
+    .nani img{
+        margin: 0;
+        width: 90%;
+        margin-left: 25px;
+    }
+    .craze{
+        margin: 0;
+        padding: 0;
+        width: 150px;
+        margin-top: 40px;
+        margin-bottom: 60px;
+        width: 100%;
+        padding-top: 30%;
+    }
+    .crazee{
+         margin: 0;
+        padding: 0;
+        width: 150px;
+        margin-top: 40px;
+        margin-bottom: 30px;
+        width: 100%;
+        padding-top: 30%;
+    }
+    .craze a{
+        margin: 0;
+        padding: 0;
+        margin-left: 150px;
+        margin-top: -40px;
+    }
+    .crazee a{
+         margin: 0;
+        padding: 0;
+        margin-left: 150px;
+        margin-top: -40px;
+    }
+    .craze p{
+        margin: 0;
+        padding: 0;
+        padding-top: 6px;
+        margin-top: -100px;
+        width: 95%;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .crazee p{
+        margin: 0;
+        padding: 0;
+        padding-top: 6px;
+        margin-top: -95px;
+        width: 95%;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .nanii input{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .fool button{
+        margin: 0;
+        padding: 0;
+        width: 150px;
+        margin-left: 100px;
+        margin-top: 15px;
+    }
+    .lo{
+        margin: 0;
+        margin-top: 45px;
+        margin-bottom: 45px;
+    }
+    .cgy h5{
+        margin: 0;
+        padding: 0;
+        padding-left: 200px;
+    }
+    .tow img{
+        width: 33%;
+    }
+    .tow h4{
+        font-size: 40px;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    .tow button{
+        margin: 0;
+        margin-left: 90px;
+        width: 200px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .tow{
+        margin: 0;
+        margin-top: 60px;
+    }
+    .toww button{
+        margin: 0;
+        float: right;
+        margin-top: 25px;
+        width: 130px;
+        font-weight: 400;
+    }
+    .tow h5{
+        text-align: center;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        margin-left: -220px;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    .tow p{
+        margin: 0;
+        padding: 0;
+        font-size: 15px;
+    }
+    .tsn{
+        margin: 0;
+        margin-top: 100px;
+    }
+    .tsn h4{
+        margin: 0;
+        padding: 0;
+        font-size: 30px;
+        padding-top: 40px;
+    }
+    .tsn p{
+        padding: 0;
+        font-weight: 400;
+        padding-top: 20px;
+        font-weight: 600;
+    }
+    .tsn button{
+        margin: 0;
+        margin-top: 10px;
+    }
+    .fish{
+        margin: 0;
+        margin-top: 20px;
+        padding: 0;
+        padding: 24%;
+    }
+    .gin h3{
+        padding: 0;
+        font-size: 48px;
+        padding-top: 160px;
+        padding-left: 20px;
+    }
+    .fu h6{
+        margin-top: -30px;
+    }
+    .gray{
+        margin: 0;
+        margin-top: 35px;
+        padding: 0;
+        padding-top: 50px;
+    }
+    .grayy{
+        margin: 0;
+        margin-top: 35px;
+        padding: 0;
+        padding-top: 50px;
+    }
+    .gray h4{
+        font-size: 30px;
+    }
+    .grayy h4{
+         font-size: 30px;
+    }
+    .caro button{
+        margin: 0;
+        margin-left: 80px;
+        width: 220px;
+    }
+    .caroo button{
+         margin: 0;
+         text-align: center;
+        width: 100%;
+    }
+    .die input{
+        margin: 0;
+        margin-top: 30px;
+        margin-bottom: 150px;
+        width: 210px;
+        margin-left: 85px;
+        height: 50px;
+    }
+    .diee input{
+        margin: 0;
+        margin-top: 30px;
+        margin-bottom: 150px;
+        width: 100%;
+        height: 50px;
+    }
+    .die button{
+        margin: 0;
+        margin-top: 33px;
+        margin-left: -105px;
+        height: 40px;
+    }
+    .diee button{
+        margin: 0;
+        margin-top: 33px;
+        margin-left: -105px;
+        height: 40px;
+    }
+    .ct img{
+        margin: 0;
+        padding: 0;
+        margin-left: 170px;
+        margin-bottom: 30px;
+    }
+    .ctt img{
+        margin: 0;
+        padding: 0;
+        margin-left: 170px;
+        margin-bottom: 30px;
+    }
+    .ct{
+        margin: 0;
+    }
+    .ct h6, h5{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .ctt h6, h5{
+         margin: 0;
+        padding: 0;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .ct p{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        line-height: 1.9;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .ctt p{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        line-height: 1.9;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .cl {
+        margin: 0;
+    }
+    .ct img{
+        margin: 0;
+        margin-left: 120px;
+    }
+    .ctt img{
+        margin: 0;
+        margin-left: 120px;
+    }
+    .tey{
+        margin: 0;
+        margin-left: 90px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .talk{
+        margin-left: 20px;
+    }
+    .ct a{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .ctt a{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .isaac button{
+        float: right;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        width: 250px;
+    }
+    .kokk img{
+        margin-top: 30px;
+    }
+    .sam{
+        margin: 0;
+        margin-top: 50px;
+    }
+    .sam button{
+        margin-left: 85px;
+    }
+    .sam h4{
+        text-align: center;
+        font-weight: 700;
+        font-size: 35px;
+    }
+    .pp img{
+        width: 100%;
+        padding: 0;
+    }
+    .pp h4{
+        padding: 0;
+        margin: 0;
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .pp p{
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0;
+    }
+    .pp button{
+        margin: 0;
+        margin-top: 25px;
+        font-size: 15px;
+    }
+    .ll button{
+        font-size: 15px;
+        color: white;
+    }
+    .ll p{
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .ll h4{
+        padding: 0;
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .ll img{
+        width: 100%;
+    }
+    .jj button{
+        font-size: 15px;
+    }
+     .jj p{
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .jj h4{
+        padding: 0;
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .jj img{
+        margin: 0;
+    }
+    .dad img{
+        margin: 0;
+        margin-left: 160px;
+    }
+    .dad h6{
+        padding: 0;
+        margin: 0;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    .dad p{
+        padding: 0;
+        padding-left: 20px;
+    }
+    .dad h4{
+        font-size: 30px;
+    }
+    .mom button{
+        margin: 0;
+        margin-top: 15px;
+        width: 150px;
+        height: 40px;
+    }
+    .toy h6{
+        padding: 0;
+        padding-left: 100px;
+        padding-bottom: 20px;
+        font-size: 18px;
+    }
+    .toy{
+        padding: 0;
+        margin: 0;
+        margin-top: 40px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .ml p{
+        padding-bottom: 30px;
+    }
+    .ml h6{
+        padding-left: 100px;
+    }
+    .aa{
+        margin-top: 40px;
+    }
+    .zz h5{
+        font-size: 15px;
+    }
+    .zz h6{
+        font-size: 35px;
+    }
+    .zz button{
+        margin: 0;
+        margin-left: 20px;
+        margin-top: 30px;
+        font-size: 15px;
+    }
+    .ff h5{
+        margin: 0;
+        text-align: center;
+        line-height: 1.4;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .ff p{
+        font-size: 13px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .ff{
+        margin: 0;
+        margin-top: 40px;
+    }
+    .did{
+        padding: 0;
+        padding-top: 75%;
+        padding-bottom: 75%;
+        background-image: url(./IMAGES/sla5.jpeg);
+        width: 100%;
+    }
+    .did button{
+        margin: 0;
+        margin-top: 15px;
+        height: 40px;
+    }
+    .ft{
+        padding: 0;
+         padding-top: 75%;
+        padding-bottom: 75%;
+        background-image: url(./IMAGES/sla4.jpeg);
+    }
+    .ft button{
+        margin: 0;
+        margin-top: 15px;
+        height: 40px;
+    }
+    .ft h5{
+        text-align: center;
+    }
+    .gg{
+        padding: 0;
+         padding-top: 75%;
+        padding-bottom: 75%;
+        background-image: url(./IMAGES/sla1.jpeg);
+    }
+    .gg button{
+        margin: 0;
+        margin-top: 15px;
+        height: 40px;
+    }
+    .gg h5{
+        text-align: center;
+    }
+    .dropdown:hover .dropdown-menu{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin-left: 0px;
+    font-weight: 200;
+    line-height: 2.5;
+    margin-top: 10px;
+    border: none;
+}
+.two a{
+    padding: 0;
+    font-size: 14px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.two{
+    margin: 0;
+    margin-top: -60px;
+}
+}
+@media (min-width:431px) and (max-width:767px){
+    .pant h3{
+        margin: 0;
+        padding: 0;
+        margin-top: 40px;
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    .wire img{
+        width: 100%;
+        margin: 0;
+        margin-top: 120px;
+        margin-bottom: 20px;
+    }
+    .wire a{
+        margin: 0;
+        padding: 0;
+    }
+    .view h4{
+        margin: 0;
+        margin-top: 40px;
+        padding: 0;
+        padding-top: 200px;
+        padding-bottom: 120px;
+    }
+    .slay h3{
+        font-size: 33px;
+        padding: 0;
+        padding-top: 80px;
+    }
+    .well h3{
+        margin: 0;
+        padding: 0;
+        font-size: 33px;
+        padding-top: 90px;
+        padding-bottom: 20px;
+    }
+    .well h5{
+        margin: 0;
+        padding: 0;
+        padding-bottom: 20px;
+    }
+    .well img{
+        width: 100%;
+        padding: 1%;
+        margin: 0;
+        margin-bottom: 15px;
+    }
+    .wella{
+        height: 400px;
+    }
+    .horn h3{
+        font-size: 25px;
+    }
+    .coat img{
+        width: 2.5%;
+    }
+    .lud h2{
+        margin: 0;
+        padding: 0;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        font-size: 25px;
+    }
+    .lud video{
+        margin: 0;
+    }
+    .soap{
+        margin: 0;
+        padding: 0;
+        padding: 30%;
+        margin-top: 40px;
+    }
+    .cure h2{
+        font-size: 35px;
+        font-weight: 600;
+    }
+    .cure p{
+        font-size: 14px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .cure h4{
+        font-size: 20px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .cure h6{
+        font-size: 14px;
+    }
+    .curest{
+        margin: 0;
+    }
+    .curing{
+        margin: 0;
+    }
+    .hen h2{
+        font-size: 30px;
+        padding-left: 40px;
+    }
+    .hen img{
+        width: 80%;
+        margin-left: 60px;
+        margin-bottom: 30px;
+    }
+    .hen p{
+        padding: 0;
+        padding-top: 30px;
+        padding-left: 40px;
+    }
+    .fuck{
+        margin: 0;
+        margin-bottom: 50px;
+    }
+    .hen button{
+        margin: 0;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+    .bow{
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    .yolo h3{
+        font-size: 28px;
+    }
+    .wavy h4{
+        font-size: 30px;
+    }
+    .wavy button{
+        margin: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .fool button{
+        margin: 0;
+        padding: 0;
+        margin-left: 250px;
+        width: 150px;
+    }
+    .gown img{
+        height: 400px;
+    }
+    .crazee a{
+        margin: 0;
+        padding: 0;
+          margin-left: 310px;
+        margin-top: -40px;
+    }
+    .crazee p{
+        margin: 0;
+        padding: 0;
+        padding-top: 6px;
+        margin-top: -125px;
+        width: 97%;
+        margin-left: 10px;
+        text-align: center
+    }
+    .crazee{
+        margin: 0;
+        padding: 0;
+        margin-top: 60px;
+        margin-bottom: 40px;
+        width: 100%;
+        padding-top: 20%;
+    }
+    .nanii input{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .ball{
+        margin: 0;
+        margin-top: 40px;
+    }
+    .ball h3{
+        margin: 0;
+        padding: 0;
+        padding-top: 120px;
+        padding-bottom: 230px;
+        font-size: 45px;
+    }
+    .port h2{
+        font-size: 33px;
+    }
+    .port p{
+        font-size: 14px;
+    }
+      .dodo p{
+        margin: 0;
+        padding: 0;
+        font-size: 14px;
+    }
+    .dodo h4{
+        font-size: 30px;
+    }
+    .dodo button{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        margin-top: 80px;
+        margin-bottom: 20px;
+    }
+    .doodo button{
+        margin: 0;
+        padding: 0;
+        width: 170px;
+        height: 40px;
+        margin-top: 25px;
+        margin-left: 250px;
+    }
+      .di h4{
+        padding: 0;
+        padding-top: 100px;
+        font-size: 35px;
+    }
+    .di p{
+        padding: 0;
+        font-size: 16px;
+        padding-bottom: 200px;
+    }
+    .ppp{
+        margin: 0;
+    }
+    .pr h6{
+        margin-top: 30px;
+    }
+    .pr p{
+        font-size: 15px;
+    }
+    .pr h2{
+        font-size: 35px;
+    }
+    .pre p{
+        font-size: 14px;
+    }
+      .pre button{
+        width: 100%;
+        text-align: center;
+    }
+    .pre h2{
+        font-size: 32px;
+        padding-bottom: 10px;
+    }
+    .preyy{
+        display: block;
+    }
+    .prey button{
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+        margin-bottom: 30px;
+         width: 160px;
+         height: 40px;
+    }
+    .ano h4{
+        padding: 0;
+        padding-top: 160px;
+        padding-bottom: 200px;
+        padding-left: 20px;
+        font-size: 45px;
+    }
+    .ano::after{
+        opacity: .1;
+    }
+    .ano{
+        margin-top: 30px;
+    }
+    .naani img{
+        margin: 0;
+        width: 70%;
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    .naani h2{
+        margin: 0;
+        margin-top: 50px;
+    }
+    .naani h6{
+        margin: 0;
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .joy{
+        display: block;
+    }
+      .nani h2{
+        margin: 0;
+        padding: 0;
+        margin-top: 20px;
+    }
+    .nani h6{
+        margin: 0;
+        padding: 0;
+        font-size: 16px;
+        margin-top: 20px;
+        line-height: 1.5;
+    }
+    .joy{
+        display: block;
+    }
+    .nani img{
+        margin: 0;
+        width: 70%;
+        margin-left: 100px;
+    }
+    .craze{
+        margin: 0;
+        padding: 0;
+        width: 150px;
+        margin-top: 50px;
+        margin-bottom: 40px;
+        width: 100%;
+        padding-top: 20%;
+    }
+    .craze a{
+        margin: 0;
+        padding: 0;
+        margin-left: 310px;
+        margin-top: -40px;
+    }
+    .craze p{
+        margin: 0;
+        padding: 0;
+        padding-top: 6px;
+        margin-top: -125px;
+        width: 97%;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .lo{
+        margin: 0;
+        margin-top: 55px;
+        margin-bottom: 45px;
+    }
+    .tow img{
+        width: 20%;
+        margin-left: 20px;
+    }
+    .tow button{
+        margin: 0;
+        margin-left: 185px;
+        width: 280px;
+        margin-bottom: 15px;
+    }
+    .tow{
+        margin: 0;
+        margin-top: 60px;
+    }
+    .toww button{
+        margin: 0;
+        float: right;
+        margin-top: 30px;
+        width: 130px;
+        font-weight: 400;
+    }
+    .tow h5{
+        text-align: center;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        margin-left: -500px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .tow p{
+        margin: 0;
+        padding: 0;
+        font-size: 15px;
+        margin-left: 25px;
+    }
+    .tsn img{
+        width: 70%;
+        margin-left: 100px;
+    }
+      .tsn{
+        margin: 0;
+        margin-top: 100px;
+    }
+    .tsn h4{
+        margin: 0;
+        padding: 0;
+        font-size: 30px;
+        padding-top: 40px;
+    }
+    .tsn p{
+        padding: 0;
+        font-weight: 400;
+        padding-top: 20px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .tsn button{
+        margin: 0;
+        margin-top: 10px;
+    }
+     .fish{
+        margin: 0;
+        margin-top: 40px;
+        padding: 0;
+        padding: 20%;
+    }
+    .gin h3{
+        padding: 0;
+        font-size: 48px;
+        padding-top: 100px;
+        padding-left: 20px;
+    }
+    .gray{
+        margin: 0;
+        margin-top: 35px;
+        padding: 0;
+        padding-top: 50px;
+    }
+    .gray h4{
+        font-size: 30px;
+        padding: 0;
+        padding-top: 40px;
+    }
+    .caro button{
+        margin: 0;
+        width: 100%;
+        font-weight: 700;
+    }
+    .die input{
+        margin: 0;
+        margin-top: 40px;
+        margin-bottom: 150px;
+        width: 100%;
+        height: 50px;
+    }
+    .die button{
+        margin: 0;
+        margin-top: 43px;
+        margin-left: -105px;
+        height: 40px;
+    }
+        .ct img{
+        margin: 0;
+        padding: 0;
+        margin-left: 200px;
+        margin-bottom: 30px;
+    }
+    .ctt img{
+        margin: 0;
+        padding: 0;
+        margin-left: 200px;
+        margin-bottom: 30px;
+    }
+    .ct h6, h5{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .ctt h6, h5{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .ct p{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        line-height: 1.9;
+    }
+    .ctt p{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        line-height: 1.9;
+    }
+    .ct a{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .ctt a{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+     .cl {
+        margin: 0;
+    }
+    .tey{
+        margin: 0;
+        margin-left: 180px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    .talk{
+        margin-left: 20px;
+    }
+    .ct{
+        margin: 0;
+    }
+      .isaac button{
+        float: right;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        height: 40px;
+    }
+    .sam{
+        margin: 0;
+        margin-top: 50px;
+    }
+    .sam h4{
+        text-align: center;
+    }
+    .sam button{
+        margin-left: 210px;
+        width: 230px;
+    }
+    .pp h4{
+        padding: 0;
+        margin: 0;
+        padding-bottom: 10px;
+    }
+    .pp p{
+        font-size: 16px;
+        font-weight: 600;
+        margin: 0;
+    }
+    .pp img{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .pp button{
+        margin: 0;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .ll button{
+        font-size: 13px;
+        width: 150px;
+    }
+    .jj button{
+        font-size: 13px;
+        width: 150px;
+    }
+    .ll h4{
+        padding: 0;
+        font-size: 40px;
+    }
+      .ll p{
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .jj h4{
+        padding: 0;
+        font-size: 40px;
+    }
+    .jj p{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .jj img{
+        margin: 0;
+    }
+    .dad button{
+        margin: 0;
+        margin-top: 15px;
+    }
+       .dad img{
+        margin: 0;
+        margin-left: 250px;
+    }
+    .dad h6{
+        padding: 0;
+        margin: 0;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    .dad p{
+        padding: 0;
+        padding-left: 20px;
+        font-size: 15px;
+    }
+      .dad h4{
+        font-size: 45px;
+    }
+    .mom button{
+        margin: 0;
+        margin-top: 15px;
+        width: 130px;
+        height: 40px;
+    }
+     .toy h6{
+        padding: 0;
+        padding-left: 180px;
+        font-size: 18px;
+    }
+    .toy{
+        padding: 0;
+        margin: 0;
+        margin-top: 40px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+       .aa{
+        margin-top: 40px;
+    }
+    .qq{
+        margin: 0;
+        margin-top: 60px;
+    }
+    .ml{
+        margin: 0;
+        padding-bottom: 20px;
+    }
+    .ml h6{
+        text-align: center;
+    }
+    .zz h5{
+        font-size: 15px;
+        margin-left: -65px;
+    }
+    .zz h6{
+        margin-left: -55px;
+    }
+    .zz p{
+        margin-left: -55px;
+        font-size: 15px;
+    }
+    .zz button{
+        margin-left: -65px;
+    }
+     .ff h5{
+        margin: 0;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .ff p{
+        font-size: 14px;
+        font-weight: 500;
+        text-align: justify;
+    }
+    .ff{
+        margin: 0;
+        margin-top: 40px;
+    }
+     .did{
+        padding: 0;
+        padding-top: 75%;
+        background-image: url(./IMAGES/sla5.jpeg);
+    }
+    .did button{
+        margin: 0;
+        margin-top: 15px;
+        height: 40px;
+    }
+    .did h5{
+        text-align: center;
+    }
+      .ft{
+        padding: 0;
+        padding-top: 75%;
+        background-image: url(./IMAGES/sla4.jpeg);
+    }
+    .ft button{
+        margin: 0;
+        margin-top: 19px;
+        height: 40px;
+    }
+      .ft h5{
+        text-align: center;
+    }
+       .gg{
+        padding: 0;
+        padding-top: 75%;
+        background-image: url(./IMAGES/sla1.jpeg);
+    }
+    .gg button{
+        margin: 0;
+        margin-top: 15px;
+        height: 40px;
+    }
+    .gg h5{
+        text-align: center;
+    }
+       .dropdown:hover .dropdown-menu{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin-left: px;
+    font-weight: 200;
+    line-height: 2.5;
+    margin-top: 10px;
+    border: none;
+}
+.two a{
+    padding: 0;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.two{
+    margin: 0;
+    margin-top: -88px;
+}
+.one img{
+    margin: 0;
+    margin-left: -80px;
+    width: 25%;
+}
+}
+@media (min-width:768px) and (max-width:1023px){
+    .pant h3{
+        margin: 0;
+        padding: 0;
+        margin-top: 40px;
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    .wire img{
+        margin: 0;
+        padding: 0;
+        margin-top: 90px;
+        margin-left: 270px;
+        margin-bottom: 20px;
+    }
+    .ment img{
+        width: 20%;
+        margin: 0;
+        margin-top: -45px;
+    }
+     .view h4{
+        margin: 0;
+        margin-top: 40px;
+        padding: 0;
+        padding-top: 200px;
+        padding-bottom: 120px;
+    }
+    .slay h3{
+        font-size: 33px;
+    }
+    .well h3{
+        font-size: 33px;
+        margin: 0;
+        padding: 0;
+        margin-top: 70px;
+        padding-bottom: 20px;
+    }
+    .wella{
+        height: 300px;
+    }
+    .wella p{
+        padding-top: 20px;
+    }
+     .lud h2{
+        margin: 0;
+        padding: 0;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        font-size: 28px;
+    }
+    .lud video{
+        margin: 0;
+        margin-top: -115px;
+    }
+    .soap{
+        margin: 0;
+        padding: 0;
+        padding: 25%;
+        margin-top: 40px;
+    }
+    .cure h2{
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .cure p{
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+    .cure h4{
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .cure h6{
+        font-size: 16px;
+    }
+    .curest{
+        margin: 0;
+    }
+    .curing{
+        margin: 0;
+    }
+    .hen h2{
+        font-size: 35px;
+        padding-left: 40px;
+    }
+    .hen img{
+        width: 45%;
+        margin-left: 60px;
+        margin-bottom: 30px;
+    }
+    .lass img{
+        float: right;
+        margin-top: -340px;
+    }
+    .hen p{
+        padding: 0;
+        padding-top: 30px;
+        padding-left: 40px;
+    }
+    .fuck{
+        margin: 0;
+        margin-bottom: 50px;
+    }
+    .hen button{
+        margin: 0;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+    .bow{
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    .yolo h3{
+        font-size: 26px;
+    }
+    .wavy h4{
+        font-size: 26px;
+    }
+    .wavy button{
+        margin: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .fool button{
+        margin: 0;
+        padding: 0;
+        margin-left: 360px;
+        width: 150px;
+    }
+    .gown img{
+        height: 290px;
+    }
+    .crazee{
+        margin: 0;
+        padding: 0;
+        width: 370px;
+        height: 65px;
+        margin-left: 270px;
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .crazee a{
+        margin: 0;
+        padding: 0;
+        margin-left: 270px;
+        margin-top: 20px;
+    }
+    .crazee p{
+        margin: 0;
+        padding: 0;
+        height: 40px;
+        width: 160px;
+        margin-left: 10px;
+        padding-top: 6px;
+        margin-top: 12px;
+    }
+    .nanii input{
+        margin: 0;
+        padding: 0;
+        width: 480px;
+        margin-left: 210px;
+        padding-left: 10px;
+    }
+    .ball{
+        margin: 0;
+        margin-top: 40px;
+    }
+    .ball h3{
+        margin: 0;
+        padding: 0;
+        padding-top: 260px;
+        padding-bottom: 110px;
+        font-size: 45px;
+    }
+    .port h2{
+        font-size: 35px;
+    }
+    .port p{
+        font-size: 13px;
+    }
+     .dodo p{
+        margin: 0;
+        padding: 0;
+        padding-left: 40px;
+        text-align: center;
+    }
+    .dodo h4{
+        font-size: 40px;
+    }
+    .dodo button{
+        margin: 0;
+        padding: 0;
+        margin-top: 80px;
+        margin-bottom: 20px;
+        margin-left: 350px;
+    }
+    .doodo button{
+        margin: 0;
+        padding: 0;
+        width: 170px;
+        height: 40px;
+        margin-top: 25px;
+        margin-left: 360px;
+    }
+    .fu h6{
+        margin-top: -90px;
+    }
+        .di h4{
+        padding: 0;
+        padding-top: 200px;
+        font-size: 35px;
+    }
+    .di p{
+        padding: 0;
+        font-size: 16px;
+        padding-bottom: 150px;
+    }
+    .ppp{
+        margin: 0;
+        margin-left: 50px;
+    }
+    .pr h2{
+        font-size: 28px;
+    }
+    .pr p{
+        font-weight: 700;
+        font-size: 13px;
+    }
+    .pre h2{
+        font-size: 28px;
+    }
+    .pre p{
+        font-size: 14px;
+    }
+       .ano h4{
+        padding: 0;
+        padding-top: 260px;
+        padding-bottom: 90px;
+        font-size: 45px;
+    }
+    .ano::after{
+        opacity: .1;
+    }
+    .ano{
+        margin-top: 30px;
+    }
+    .naani h2{
+        margin: 0;
+        padding: 0;
+        padding-top: 50px;
+        padding-left: 80px;
+    }
+    .naani h6{
+         margin: 0;
+          padding-top: 20px;
+        padding-left: 80px;
+    }
+    .naani img{
+        margin: 0;
+        width: 80%;
+    }
+     .nani h2{
+        margin: 0;
+        padding: 0;
+        margin-top: 20px;
+    }
+    .nani h6{
+        margin: 0;
+        padding: 0;
+        font-size: 16px;
+        margin-top: 20px;
+        line-height: 1.5;
+    }
+    .nani img{
+        margin: 0;
+        width: 80%;
+        margin-left: 100px;
+    }
+    .craze{
+        margin: 0;
+        padding: 0;
+        width: 470px;
+        height: 65px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .craze a{
+        margin: 0;
+        padding: 0;
+        margin-left: 350px;
+        margin-top: 20px;
+    }
+    .craze p{
+        margin: 0;
+        padding: 0;
+        height: 50px;
+        width: 270px;
+        text-align: center;
+        margin-left: 15px;
+        margin-top: 7px;
+    }
+    .toww button{
+        margin: 0;
+        float: right;
+    }
+    .tow h5{
+        margin: 0;
+        padding: 0;
+        padding-left: 95px;
+        margin-top: -70px;
+        padding-bottom: 20px;
+    }
+    .tow p{
+        margin: 0;
+        padding: 0;
+        padding-left: 95px;
+    }
+      .tsn{
+        margin: 0;
+        margin-top: 100px;
+    }
+    .tsn h4{
+        margin: 0;
+        padding: 0;
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .tsn p{
+        margin-left: 20px;
+        padding: 0;
+        font-weight: 400;
+        font-size: 16px;
+        font-weight: 600;
+        margin-top: 15px;
+    }
+    .tsn button{
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+      .fish{
+        margin: 0;
+        margin-top: 40px;
+        padding: 0;
+        padding: 8%;
+    }
+    .gin h3{
+        padding: 0;
+        font-size: 42px;
+        padding-top: 260px;
+        padding-left: 3px;
+    }
+    .gray{
+        margin: 0;
+        margin-top: 35px;
+        padding: 0;
+        padding-top: 70px;
+    }
+    .gray h4{
+        font-size: 25px;
+    }
+    .caro button{
+        margin: 0;
+        margin-left: 320px;
+        width: 220px;
+    }
+    .die input{
+        margin: 0;
+        margin-top: 45px;
+        margin-bottom: 150px;
+        width: 410px;
+        margin-left: 230px;
+        height: 50px;
+    }
+    .die button{
+        margin: 0;
+        margin-top: 48px;
+        margin-left: -105px;
+        height: 40px;
+    }
+    .ll img{
+        margin: 0;
+        padding: 0;
+        margin-top: 40px;
+    }
+    .pp img{
+        margin: 0;
+        padding: 0;
+        margin-top: 80px;
+    }
+    .jj img{
+        margin: 0;
+        padding: 0;
+        margin-top: 60px;
+    }
+     .ct h6, h5{
+        margin: 0;
+        padding: 0;
+        font-size: 22px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        
+    }
+    .ctt h6, h5{
+        margin: 0;
+        padding: 0;
+        font-size: 22px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .ct p{
+        margin: 0;
+        padding: 0;
+        line-height: 1.9;
+        font-weight: 400;
+    }
+    .ctt p{
+         margin: 0;
+        padding: 0;
+        line-height: 1.9;
+        font-weight: 400;
+    }
+    .ct a{
+        margin: 0;
+        padding: 0;
+        font-weight: 400;
+    }
+    .ctt a{
+         margin: 0;
+        padding: 0;
+        font-weight: 400;
+    }
+     .cl {
+        margin: 0;
+    }
+    .tey{
+        margin: 0;
+        margin-left: -10px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    .talk{
+        margin-left: 20px;
+    }
+    .ct{
+        margin: 0;
+    }
+    .benn p{
+        padding: 0;
+        margin-bottom: 40px;
+        
+    }
+    .isaac button{
+        float: right;
+    }
+    .dad h4{
+        padding: 0;
+        margin: 0;
+        padding-top: 10px;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .mom button{
+        float: right;
+    }
+    .dad h6{
+        padding: 0;
+        margin: 0;
+        padding-left: 50px;
+        font-size: 20px;
+        margin-top: -30px;
+    }
+    .dad p{
+        padding: 0;
+        padding-left: 50px;
+    }
+    .toy h6{
+        padding: 0;
+        padding-left: 280px;
+        font-size: 18px;
+    }
+    .toy{
+        padding: 0;
+        margin: 0;
+        margin-top: 40px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .zz h5{
+        font-size: 15px;
+        margin-left: -65px;
+    }
+    .zz button{
+        margin-left: -65px;
+    }
+    .zz h6{
+        font-size: 30px;
+        font-weight: 800;
+    }
+    .zz p{
+        font-size: 16px;
+    }
+    .ww{
+        margin: 0;
+        margin-top: 85px;
+    }
+      .ff h5{
+        margin: 0;
+        font-size: 32px;
+        font-weight: 700;
+        text-align: justify;
+    }
+    .ff p{
+        font-size: 17px;
+        font-weight: 500;
+        text-align: justify;
+    }
+    .ff{
+        margin: 0;
+        margin-top: 40px;
+    }
+       .did{
+        padding: 0;
+        padding-top: 65%;
+        background-image: url(./IMAGES/sla5.jpeg);
+    }
+    .did button{
+        margin: 0;
+        margin-top: 15px;
+        margin-left: -400px;
+        height: 40px;
+    }
+    .did h5{
+        text-align: center;
+    }
+        .ft{
+        padding: 0;
+        padding-top: 65%;
+        background-image: url(./IMAGES/sla4.jpeg);
+    }
+    .ft button{
+        margin: 0;
+        margin-top: 25px;
+        margin-left: -400px;
+        height: 40px;
+    }
+      .ft h5{
+        text-align: left;
+        margin-top: -230px;
+        font-size: 32px;
+    }
+       .gg{
+        padding: 0;
+        padding-top: 65%;
+        background-image: url(./IMAGES/sla1.jpeg);
+    }
+    .gg button{
+        margin: 0;
+        margin-top: 20px;
+        margin-left: -400px;
+        height: 40px;
+    }
+    .gg h5{
+        text-align: center;
+    }
+         .dropdown:hover .dropdown-menu{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin-left: px;
+    font-weight: 200;
+    line-height: 2.5;
+    margin-top: 10px;
+    border: none;
+}
+.two a{
+    padding: 0;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.two{
+    margin: 0;
+     margin-top: -88px;
+}
+.one img{
+    margin: 0;
+    margin-left: -80px;
+    width: 25%;
+}
+}
